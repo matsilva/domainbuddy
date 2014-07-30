@@ -1,0 +1,17 @@
+{
+  "name": "domain-buddy",
+  "version": "0.0.1",
+  "description": "Get, set and forget batch domain mapping",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matsilva/domainbuddy.git"
+  },
+  "author": "Mat Silva <askmatsilva@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "aws-sdk": "2.0.x",
+    "request": "2.37.x",
+    "shortid": "2.0.x"
+  },
+}
